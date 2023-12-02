@@ -25,7 +25,7 @@
     "build": "rollup --config && npx tsc"
   },
   "dependencies": {
-    "@duplojs/duplojs": ">=0.13.20"
+    "@duplojs/duplojs": ">=0.13.23"
   },
   "devDependencies": {
     "@duplojs/worker-testing": "^0.1.4",
