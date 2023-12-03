@@ -28,7 +28,7 @@
     "@duplojs/duplojs": ">=0.13.23"
   },
   "devDependencies": {
-    "@duplojs/worker-testing": "^0.1.4",
+    "@duplojs/worker-testing": "^0.1.5",
     "@rollup/plugin-json": "^6.0.1",
     "@types/node": "^18.15.11",
     "@typescript-eslint/eslint-plugin": "^6.0.0",
