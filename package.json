@@ -41,12 +41,5 @@
     "rollup-plugin-esbuild": "^5.0.0",
     "sucrase": "^3.34.0",
     "typescript": "^5.0.2"
-  },
-  "nodemonConfig": {
-    "watch": [
-      "scripts",
-      "test"
-    ],
-    "ext": "ts, js"
   }
 }
