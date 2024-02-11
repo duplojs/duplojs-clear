@@ -21,9 +21,9 @@
     "access": "public"
   },
   "scripts": {
-    "build": "rollup --config && npx tsc",
+    "build": "rollup --config && npx tsc -p tsconfig.build.json",
 	"test:e2e": "node --require sucrase/register test",
-	"test:types": "tsc --noEmit --emitDeclarationOnly false"
+	"test:types": "tsc"
   },
   "dependencies": {
     "@duplojs/duplojs": ">=1.0.0 <2.0.0"
